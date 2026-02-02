@@ -1,0 +1,822 @@
+[
+  {
+    "name": "Link to https://magicspoon.com",
+    "tag": "a",
+    "href": "https://magicspoon.com",
+    "text": "",
+    "css_locator": "page.locator('a[href=\"https://magicspoon.com\"]')",
+    "xpath": "//html[1]/body[1]/div[3]/nav[1]/div[1]/div[1]/a[1]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Link: CEREAL",
+    "tag": "a",
+    "href": "/collections/shop-all?filter=cereal",
+    "text": "CEREAL",
+    "css_locator": "page.locator('a[href=\"/collections/shop-all?filter=cereal\"]')",
+    "xpath": "//*[@id=\"namespace_select_cereal\"]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Link: TREATS",
+    "tag": "a",
+    "href": "/collections/shop-all?filter=treats",
+    "text": "TREATS",
+    "css_locator": "page.locator('a[href=\"/collections/shop-all?filter=treats\"]')",
+    "xpath": "//*[@id=\"namespace_select_treats\"]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Link: GRANOLA NEW",
+    "tag": "a",
+    "href": "/collections/shop-all?filter=granola",
+    "text": "GRANOLA NEW",
+    "css_locator": "page.locator('a[href=\"/collections/shop-all?filter=granola\"]')",
+    "xpath": "//*[@id=\"namespace_select_granola\"]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Link: BUNDLE BUILDER BESTSELLER",
+    "tag": "a",
+    "href": "https://magicspoon.com/products/custom-mixed-bundle-6-box",
+    "text": "BUNDLE BUILDER BESTSELLER",
+    "css_locator": "page.locator('a[href=\"https://magicspoon.com/products/custom-mixed-bundle-6-box\"]')",
+    "xpath": "//html[1]/body[1]/div[3]/nav[1]/div[1]/div[2]/ul[1]/li[4]/a[1]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Link: SHOP ALL",
+    "tag": "a",
+    "href": "/collections/shop-all",
+    "text": "SHOP ALL",
+    "css_locator": "page.locator('a[href=\"/collections/shop-all\"]')",
+    "xpath": "//html[1]/body[1]/div[3]/nav[1]/div[1]/div[2]/ul[1]/li[5]/a[1]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Link: ABOUT US",
+    "tag": "a",
+    "href": "/pages/our-story",
+    "text": "ABOUT US",
+    "css_locator": "page.locator('a[href=\"/pages/our-story\"]')",
+    "xpath": "//html[1]/body[1]/div[3]/nav[1]/div[1]/div[2]/ul[1]/li[6]/a[1]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Link to /account",
+    "tag": "a",
+    "href": "/account",
+    "text": "",
+    "css_locator": "page.locator('a[href=\"/account\"]')",
+    "xpath": "//html[1]/body[1]/div[3]/nav[1]/div[1]/div[3]/a[1]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Link to /cart",
+    "tag": "a",
+    "href": "/cart",
+    "text": "",
+    "css_locator": "page.locator('a[href=\"/cart\"]')",
+    "xpath": "//html[1]/body[1]/div[3]/nav[1]/div[1]/div[3]/a[2]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Link to /collections/shop-all",
+    "tag": "a",
+    "href": "/collections/shop-all",
+    "text": "",
+    "css_locator": "page.locator('a[href=\"/collections/shop-all\"]')",
+    "xpath": "//html[1]/body[1]/div[4]/aside[1]/a[1]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Button: SHOP ALL",
+    "tag": "button",
+    "href": null,
+    "text": "SHOP ALL",
+    "css_locator": "page.locator(\"button\")",
+    "xpath": "//html[1]/body[1]/main[1]/div[1]/div[2]/div[1]/button[1]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Button: NEW! GRANOLA",
+    "tag": "button",
+    "href": null,
+    "text": "NEW! GRANOLA",
+    "css_locator": "page.locator(\"button\")",
+    "xpath": "//html[1]/body[1]/main[1]/div[1]/div[2]/div[1]/button[2]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Button: CEREAL",
+    "tag": "button",
+    "href": null,
+    "text": "CEREAL",
+    "css_locator": "page.locator(\"button\")",
+    "xpath": "//html[1]/body[1]/main[1]/div[1]/div[2]/div[1]/button[3]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Button: TREATS",
+    "tag": "button",
+    "href": null,
+    "text": "TREATS",
+    "css_locator": "page.locator(\"button\")",
+    "xpath": "//html[1]/body[1]/main[1]/div[1]/div[2]/div[1]/button[4]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Button: BUNDLES",
+    "tag": "button",
+    "href": null,
+    "text": "BUNDLES",
+    "css_locator": "page.locator(\"button\")",
+    "xpath": "//html[1]/body[1]/main[1]/div[1]/div[2]/div[1]/button[5]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Link to /products/discovery-kit-6-pack",
+    "tag": "a",
+    "href": "/products/discovery-kit-6-pack",
+    "text": "",
+    "css_locator": "page.locator('a[href=\"/products/discovery-kit-6-pack\"]')",
+    "xpath": "//html[1]/body[1]/main[1]/div[1]/div[3]/div[1]/div[1]/a[1]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Link: SHOP NOW",
+    "tag": "a",
+    "href": "/products/discovery-kit-6-pack",
+    "text": "SHOP NOW",
+    "css_locator": "page.locator('a[href=\"/products/discovery-kit-6-pack\"]')",
+    "xpath": "//html[1]/body[1]/main[1]/div[1]/div[3]/div[1]/div[1]/a[2]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Button: SHOP NOW",
+    "tag": "button",
+    "href": null,
+    "text": "SHOP NOW",
+    "css_locator": "page.locator(\"button\")",
+    "xpath": "//html[1]/body[1]/main[1]/div[1]/div[3]/div[1]/div[1]/a[2]/button[1]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Link: Classic Discovery Kit",
+    "tag": "a",
+    "href": "/products/discovery-kit-6-pack",
+    "text": "Classic Discovery Kit",
+    "css_locator": "page.locator('a[href=\"/products/discovery-kit-6-pack\"]')",
+    "xpath": "//html[1]/body[1]/main[1]/div[1]/div[3]/div[1]/div[1]/a[3]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Link to /products/strawberry-milkshake-birthday-cake-16-cereal-treats-4-boxes",
+    "tag": "a",
+    "href": "/products/strawberry-milkshake-birthday-cake-16-cereal-treats-4-boxes",
+    "text": "",
+    "css_locator": "page.locator('a[href=\"/products/strawberry-milkshake-birthday-cake-16-cereal-treats-4-boxes\"]')",
+    "xpath": "//html[1]/body[1]/main[1]/div[1]/div[3]/div[1]/div[2]/a[1]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Link: SHOP NOW",
+    "tag": "a",
+    "href": "/products/strawberry-milkshake-birthday-cake-16-cereal-treats-4-boxes",
+    "text": "SHOP NOW",
+    "css_locator": "page.locator('a[href=\"/products/strawberry-milkshake-birthday-cake-16-cereal-treats-4-boxes\"]')",
+    "xpath": "//html[1]/body[1]/main[1]/div[1]/div[3]/div[1]/div[2]/a[2]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Button: SHOP NOW",
+    "tag": "button",
+    "href": null,
+    "text": "SHOP NOW",
+    "css_locator": "page.locator(\"button\")",
+    "xpath": "//html[1]/body[1]/main[1]/div[1]/div[3]/div[1]/div[2]/a[2]/button[1]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Link: The Party Pack Treats",
+    "tag": "a",
+    "href": "/products/strawberry-milkshake-birthday-cake-16-cereal-treats-4-boxes",
+    "text": "The Party Pack Treats",
+    "css_locator": "page.locator('a[href=\"/products/strawberry-milkshake-birthday-cake-16-cereal-treats-4-boxes\"]')",
+    "xpath": "//html[1]/body[1]/main[1]/div[1]/div[3]/div[1]/div[2]/a[3]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Link to /products/variety-1-case-6-boxes-1",
+    "tag": "a",
+    "href": "/products/variety-1-case-6-boxes-1",
+    "text": "",
+    "css_locator": "page.locator('a[href=\"/products/variety-1-case-6-boxes-1\"]')",
+    "xpath": "//html[1]/body[1]/main[1]/div[1]/div[3]/div[1]/div[3]/a[1]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Link: SHOP NOW",
+    "tag": "a",
+    "href": "/products/variety-1-case-6-boxes-1",
+    "text": "SHOP NOW",
+    "css_locator": "page.locator('a[href=\"/products/variety-1-case-6-boxes-1\"]')",
+    "xpath": "//html[1]/body[1]/main[1]/div[1]/div[3]/div[1]/div[3]/a[2]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Button: SHOP NOW",
+    "tag": "button",
+    "href": null,
+    "text": "SHOP NOW",
+    "css_locator": "page.locator(\"button\")",
+    "xpath": "//html[1]/body[1]/main[1]/div[1]/div[3]/div[1]/div[3]/a[2]/button[1]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Link: Cereal Variety 6-Pack",
+    "tag": "a",
+    "href": "/products/variety-1-case-6-boxes-1",
+    "text": "Cereal Variety 6-Pack",
+    "css_locator": "page.locator('a[href=\"/products/variety-1-case-6-boxes-1\"]')",
+    "xpath": "//html[1]/body[1]/main[1]/div[1]/div[3]/div[1]/div[3]/a[3]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Link: GET STARTED",
+    "tag": "a",
+    "href": "/products/custom-mixed-bundle-6-box",
+    "text": "GET STARTED",
+    "css_locator": "page.locator('a[href=\"/products/custom-mixed-bundle-6-box\"]')",
+    "xpath": "//html[1]/body[1]/main[1]/div[1]/div[3]/div[1]/a[2]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Link to /products/variety-6-6-bags-of-granola",
+    "tag": "a",
+    "href": "/products/variety-6-6-bags-of-granola",
+    "text": "",
+    "css_locator": "page.locator('a[href=\"/products/variety-6-6-bags-of-granola\"]')",
+    "xpath": "//html[1]/body[1]/main[1]/div[1]/div[3]/div[1]/div[4]/a[1]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Link: SHOP NOW",
+    "tag": "a",
+    "href": "/products/variety-6-6-bags-of-granola",
+    "text": "SHOP NOW",
+    "css_locator": "page.locator('a[href=\"/products/variety-6-6-bags-of-granola\"]')",
+    "xpath": "//html[1]/body[1]/main[1]/div[1]/div[3]/div[1]/div[4]/a[2]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Button: SHOP NOW",
+    "tag": "button",
+    "href": null,
+    "text": "SHOP NOW",
+    "css_locator": "page.locator(\"button\")",
+    "xpath": "//html[1]/body[1]/main[1]/div[1]/div[3]/div[1]/div[4]/a[2]/button[1]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Link: Granola Variety 6-Pack",
+    "tag": "a",
+    "href": "/products/variety-6-6-bags-of-granola",
+    "text": "Granola Variety 6-Pack",
+    "css_locator": "page.locator('a[href=\"/products/variety-6-6-bags-of-granola\"]')",
+    "xpath": "//html[1]/body[1]/main[1]/div[1]/div[3]/div[1]/div[4]/a[3]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Link to /products/sweet-n-salty-variety-pack",
+    "tag": "a",
+    "href": "/products/sweet-n-salty-variety-pack",
+    "text": "",
+    "css_locator": "page.locator('a[href=\"/products/sweet-n-salty-variety-pack\"]')",
+    "xpath": "//html[1]/body[1]/main[1]/div[1]/div[3]/div[1]/div[5]/a[1]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Link: SHOP NOW",
+    "tag": "a",
+    "href": "/products/sweet-n-salty-variety-pack",
+    "text": "SHOP NOW",
+    "css_locator": "page.locator('a[href=\"/products/sweet-n-salty-variety-pack\"]')",
+    "xpath": "//html[1]/body[1]/main[1]/div[1]/div[3]/div[1]/div[5]/a[2]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Button: SHOP NOW",
+    "tag": "button",
+    "href": null,
+    "text": "SHOP NOW",
+    "css_locator": "page.locator(\"button\")",
+    "xpath": "//html[1]/body[1]/main[1]/div[1]/div[3]/div[1]/div[5]/a[2]/button[1]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Link: Treats Variety 6-Pack",
+    "tag": "a",
+    "href": "/products/sweet-n-salty-variety-pack",
+    "text": "Treats Variety 6-Pack",
+    "css_locator": "page.locator('a[href=\"/products/sweet-n-salty-variety-pack\"]')",
+    "xpath": "//html[1]/body[1]/main[1]/div[1]/div[3]/div[1]/div[5]/a[3]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Link to /products/variety-4-4-bags-of-granola",
+    "tag": "a",
+    "href": "/products/variety-4-4-bags-of-granola",
+    "text": "",
+    "css_locator": "page.locator('a[href=\"/products/variety-4-4-bags-of-granola\"]')",
+    "xpath": "//html[1]/body[1]/main[1]/div[1]/div[3]/div[1]/div[6]/a[1]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Link: SHOP NOW",
+    "tag": "a",
+    "href": "/products/variety-4-4-bags-of-granola",
+    "text": "SHOP NOW",
+    "css_locator": "page.locator('a[href=\"/products/variety-4-4-bags-of-granola\"]')",
+    "xpath": "//html[1]/body[1]/main[1]/div[1]/div[3]/div[1]/div[6]/a[2]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Button: SHOP NOW",
+    "tag": "button",
+    "href": null,
+    "text": "SHOP NOW",
+    "css_locator": "page.locator(\"button\")",
+    "xpath": "//html[1]/body[1]/main[1]/div[1]/div[3]/div[1]/div[6]/a[2]/button[1]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Link: Granola Variety 4-Pack",
+    "tag": "a",
+    "href": "/products/variety-4-4-bags-of-granola",
+    "text": "Granola Variety 4-Pack",
+    "css_locator": "page.locator('a[href=\"/products/variety-4-4-bags-of-granola\"]')",
+    "xpath": "//html[1]/body[1]/main[1]/div[1]/div[3]/div[1]/div[6]/a[3]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Link to /products/dark-chocolate-almond-4-bags-of-granola",
+    "tag": "a",
+    "href": "/products/dark-chocolate-almond-4-bags-of-granola",
+    "text": "",
+    "css_locator": "page.locator('a[href=\"/products/dark-chocolate-almond-4-bags-of-granola\"]')",
+    "xpath": "//html[1]/body[1]/main[1]/div[1]/div[3]/div[1]/div[7]/a[1]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Link: SHOP NOW",
+    "tag": "a",
+    "href": "/products/dark-chocolate-almond-4-bags-of-granola",
+    "text": "SHOP NOW",
+    "css_locator": "page.locator('a[href=\"/products/dark-chocolate-almond-4-bags-of-granola\"]')",
+    "xpath": "//html[1]/body[1]/main[1]/div[1]/div[3]/div[1]/div[7]/a[2]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Button: SHOP NOW",
+    "tag": "button",
+    "href": null,
+    "text": "SHOP NOW",
+    "css_locator": "page.locator(\"button\")",
+    "xpath": "//html[1]/body[1]/main[1]/div[1]/div[3]/div[1]/div[7]/a[2]/button[1]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Link: Dark Chocolate Granola",
+    "tag": "a",
+    "href": "/products/dark-chocolate-almond-4-bags-of-granola",
+    "text": "Dark Chocolate Granola",
+    "css_locator": "page.locator('a[href=\"/products/dark-chocolate-almond-4-bags-of-granola\"]')",
+    "xpath": "//html[1]/body[1]/main[1]/div[1]/div[3]/div[1]/div[7]/a[3]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Link to /products/mixed-berry-4-granola",
+    "tag": "a",
+    "href": "/products/mixed-berry-4-granola",
+    "text": "",
+    "css_locator": "page.locator('a[href=\"/products/mixed-berry-4-granola\"]')",
+    "xpath": "//html[1]/body[1]/main[1]/div[1]/div[3]/div[1]/div[8]/a[1]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Link: SHOP NOW",
+    "tag": "a",
+    "href": "/products/mixed-berry-4-granola",
+    "text": "SHOP NOW",
+    "css_locator": "page.locator('a[href=\"/products/mixed-berry-4-granola\"]')",
+    "xpath": "//html[1]/body[1]/main[1]/div[1]/div[3]/div[1]/div[8]/a[2]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Button: SHOP NOW",
+    "tag": "button",
+    "href": null,
+    "text": "SHOP NOW",
+    "css_locator": "page.locator(\"button\")",
+    "xpath": "//html[1]/body[1]/main[1]/div[1]/div[3]/div[1]/div[8]/a[2]/button[1]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Link: Mixed Berry Granola",
+    "tag": "a",
+    "href": "/products/mixed-berry-4-granola",
+    "text": "Mixed Berry Granola",
+    "css_locator": "page.locator('a[href=\"/products/mixed-berry-4-granola\"]')",
+    "xpath": "//html[1]/body[1]/main[1]/div[1]/div[3]/div[1]/div[8]/a[3]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Link to /products/honey-almond-4-granola",
+    "tag": "a",
+    "href": "/products/honey-almond-4-granola",
+    "text": "",
+    "css_locator": "page.locator('a[href=\"/products/honey-almond-4-granola\"]')",
+    "xpath": "//html[1]/body[1]/main[1]/div[1]/div[3]/div[1]/div[9]/a[1]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Link: SHOP NOW",
+    "tag": "a",
+    "href": "/products/honey-almond-4-granola",
+    "text": "SHOP NOW",
+    "css_locator": "page.locator('a[href=\"/products/honey-almond-4-granola\"]')",
+    "xpath": "//html[1]/body[1]/main[1]/div[1]/div[3]/div[1]/div[9]/a[2]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Button: SHOP NOW",
+    "tag": "button",
+    "href": null,
+    "text": "SHOP NOW",
+    "css_locator": "page.locator(\"button\")",
+    "xpath": "//html[1]/body[1]/main[1]/div[1]/div[3]/div[1]/div[9]/a[2]/button[1]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Link: Honey Almond Granola",
+    "tag": "a",
+    "href": "/products/honey-almond-4-granola",
+    "text": "Honey Almond Granola",
+    "css_locator": "page.locator('a[href=\"/products/honey-almond-4-granola\"]')",
+    "xpath": "//html[1]/body[1]/main[1]/div[1]/div[3]/div[1]/div[9]/a[3]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Link to /products/peanut-butter-4-granola",
+    "tag": "a",
+    "href": "/products/peanut-butter-4-granola",
+    "text": "",
+    "css_locator": "page.locator('a[href=\"/products/peanut-butter-4-granola\"]')",
+    "xpath": "//html[1]/body[1]/main[1]/div[1]/div[3]/div[1]/div[10]/a[1]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Link: SHOP NOW",
+    "tag": "a",
+    "href": "/products/peanut-butter-4-granola",
+    "text": "SHOP NOW",
+    "css_locator": "page.locator('a[href=\"/products/peanut-butter-4-granola\"]')",
+    "xpath": "//html[1]/body[1]/main[1]/div[1]/div[3]/div[1]/div[10]/a[2]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Button: SHOP NOW",
+    "tag": "button",
+    "href": null,
+    "text": "SHOP NOW",
+    "css_locator": "page.locator(\"button\")",
+    "xpath": "//html[1]/body[1]/main[1]/div[1]/div[3]/div[1]/div[10]/a[2]/button[1]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Link: Peanut Butter Granola",
+    "tag": "a",
+    "href": "/products/peanut-butter-4-granola",
+    "text": "Peanut Butter Granola",
+    "css_locator": "page.locator('a[href=\"/products/peanut-butter-4-granola\"]')",
+    "xpath": "//html[1]/body[1]/main[1]/div[1]/div[3]/div[1]/div[10]/a[3]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Link to /products/treats-variety-4-16-cereal-treats-4-boxes",
+    "tag": "a",
+    "href": "/products/treats-variety-4-16-cereal-treats-4-boxes",
+    "text": "",
+    "css_locator": "page.locator('a[href=\"/products/treats-variety-4-16-cereal-treats-4-boxes\"]')",
+    "xpath": "//html[1]/body[1]/main[1]/div[1]/div[3]/div[1]/div[11]/a[1]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Link: SHOP NOW",
+    "tag": "a",
+    "href": "/products/treats-variety-4-16-cereal-treats-4-boxes",
+    "text": "SHOP NOW",
+    "css_locator": "page.locator('a[href=\"/products/treats-variety-4-16-cereal-treats-4-boxes\"]')",
+    "xpath": "//html[1]/body[1]/main[1]/div[1]/div[3]/div[1]/div[11]/a[2]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Button: SHOP NOW",
+    "tag": "button",
+    "href": null,
+    "text": "SHOP NOW",
+    "css_locator": "page.locator(\"button\")",
+    "xpath": "//html[1]/body[1]/main[1]/div[1]/div[3]/div[1]/div[11]/a[2]/button[1]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Link: Treats Variety 4-Pack",
+    "tag": "a",
+    "href": "/products/treats-variety-4-16-cereal-treats-4-boxes",
+    "text": "Treats Variety 4-Pack",
+    "css_locator": "page.locator('a[href=\"/products/treats-variety-4-16-cereal-treats-4-boxes\"]')",
+    "xpath": "//html[1]/body[1]/main[1]/div[1]/div[3]/div[1]/div[11]/a[3]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Link: Terms of Use",
+    "tag": "a",
+    "href": "/pages/terms-of-use",
+    "text": "Terms of Use",
+    "css_locator": "page.locator('a[href=\"/pages/terms-of-use\"]')",
+    "xpath": "//html[1]/body[1]/footer[1]/div[2]/div[1]/ul[1]/li[1]/a[1]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Link: Privacy Policy",
+    "tag": "a",
+    "href": "/pages/privacy-policy",
+    "text": "Privacy Policy",
+    "css_locator": "page.locator('a[href=\"/pages/privacy-policy\"]')",
+    "xpath": "//html[1]/body[1]/footer[1]/div[2]/div[1]/ul[1]/li[2]/a[1]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Link: Accessibility Policy",
+    "tag": "a",
+    "href": "/pages/accessibility-policy",
+    "text": "Accessibility Policy",
+    "css_locator": "page.locator('a[href=\"/pages/accessibility-policy\"]')",
+    "xpath": "//html[1]/body[1]/footer[1]/div[2]/div[1]/ul[1]/li[3]/a[1]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Link: FAQ",
+    "tag": "a",
+    "href": "/pages/faq",
+    "text": "FAQ",
+    "css_locator": "page.locator('a[href=\"/pages/faq\"]')",
+    "xpath": "//html[1]/body[1]/footer[1]/div[2]/div[1]/ul[1]/li[4]/a[1]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Link: Reviews",
+    "tag": "a",
+    "href": "https://magicspoon.com/pages/reviews-1",
+    "text": "Reviews",
+    "css_locator": "page.locator('a[href=\"https://magicspoon.com/pages/reviews-1\"]')",
+    "xpath": "//html[1]/body[1]/footer[1]/div[2]/div[1]/ul[1]/li[5]/a[1]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Link: Jobs",
+    "tag": "a",
+    "href": "/pages/jobs",
+    "text": "Jobs",
+    "css_locator": "page.locator('a[href=\"/pages/jobs\"]')",
+    "xpath": "//html[1]/body[1]/footer[1]/div[2]/div[1]/ul[1]/li[6]/a[1]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Link: Track Orders",
+    "tag": "a",
+    "href": "/apps/tracktor/track",
+    "text": "Track Orders",
+    "css_locator": "page.locator('a[href=\"/apps/tracktor/track\"]')",
+    "xpath": "//html[1]/body[1]/footer[1]/div[2]/div[1]/ul[1]/li[7]/a[1]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Link: Store Locator",
+    "tag": "a",
+    "href": "/pages/store-locator",
+    "text": "Store Locator",
+    "css_locator": "page.locator('a[href=\"/pages/store-locator\"]')",
+    "xpath": "//html[1]/body[1]/footer[1]/div[2]/div[1]/ul[1]/li[8]/a[1]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Link: Terms of Service",
+    "tag": "a",
+    "href": "/policies/terms-of-service",
+    "text": "Terms of Service",
+    "css_locator": "page.locator('a[href=\"/policies/terms-of-service\"]')",
+    "xpath": "//html[1]/body[1]/footer[1]/div[2]/div[1]/ul[1]/li[9]/a[1]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Link: Refund policy",
+    "tag": "a",
+    "href": "/policies/refund-policy",
+    "text": "Refund policy",
+    "css_locator": "page.locator('a[href=\"/policies/refund-policy\"]')",
+    "xpath": "//html[1]/body[1]/footer[1]/div[2]/div[1]/ul[1]/li[10]/a[1]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Link: CONTACT US",
+    "tag": "a",
+    "href": "/pages/contact",
+    "text": "CONTACT US",
+    "css_locator": "page.locator('a[href=\"/pages/contact\"]')",
+    "xpath": "//html[1]/body[1]/footer[1]/div[2]/div[1]/div[1]/a[1]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Link to https://www.instagram.com/magicspooncereal",
+    "tag": "a",
+    "href": "https://www.instagram.com/magicspooncereal",
+    "text": "",
+    "css_locator": "page.locator('a[href=\"https://www.instagram.com/magicspooncereal\"]')",
+    "xpath": "//html[1]/body[1]/footer[1]/div[2]/div[1]/div[1]/a[2]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Link to https://www.facebook.com/magicspooncereal/",
+    "tag": "a",
+    "href": "https://www.facebook.com/magicspooncereal/",
+    "text": "",
+    "css_locator": "page.locator('a[href=\"https://www.facebook.com/magicspooncereal/\"]')",
+    "xpath": "//html[1]/body[1]/footer[1]/div[2]/div[1]/div[1]/a[3]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Link to https://twitter.com/eatmagicspoon/",
+    "tag": "a",
+    "href": "https://twitter.com/eatmagicspoon/",
+    "text": "",
+    "css_locator": "page.locator('a[href=\"https://twitter.com/eatmagicspoon/\"]')",
+    "xpath": "//html[1]/body[1]/footer[1]/div[2]/div[1]/div[1]/a[4]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Link to https://www.tiktok.com/@magicspooncereal?lang=en",
+    "tag": "a",
+    "href": "https://www.tiktok.com/@magicspooncereal?lang=en",
+    "text": "",
+    "css_locator": "page.locator('a[href=\"https://www.tiktok.com/@magicspooncereal?lang=en\"]')",
+    "xpath": "//html[1]/body[1]/footer[1]/div[2]/div[1]/div[1]/a[5]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Button: SUBSCRIBE",
+    "tag": "button",
+    "href": null,
+    "text": "SUBSCRIBE",
+    "css_locator": "page.locator(\"button\")",
+    "xpath": "//html[1]/body[1]/footer[1]/div[2]/div[2]/form[1]/button[1]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Unnamed Button",
+    "tag": "button",
+    "href": null,
+    "text": "",
+    "css_locator": "page.locator(\"button\")",
+    "xpath": "//html[1]/body[1]/div[9]/div[1]/div[1]/button[1]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Link: Shop Cereal",
+    "tag": "a",
+    "href": "/collections/shop-all?filter=cereal",
+    "text": "Shop Cereal",
+    "css_locator": "page.locator('a[href=\"/collections/shop-all?filter=cereal\"]')",
+    "xpath": "//html[1]/body[1]/div[9]/div[1]/div[3]/div[1]/div[1]/p[2]/a[1]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Link: Shop Treats",
+    "tag": "a",
+    "href": "/collections/shop-all?filter=treats",
+    "text": "Shop Treats",
+    "css_locator": "page.locator('a[href=\"/collections/shop-all?filter=treats\"]')",
+    "xpath": "//html[1]/body[1]/div[9]/div[1]/div[3]/div[1]/div[1]/p[2]/a[2]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Link: Shop Granola",
+    "tag": "a",
+    "href": "/collections/shop-all?filter=granola",
+    "text": "Shop Granola",
+    "css_locator": "page.locator('a[href=\"/collections/shop-all?filter=granola\"]')",
+    "xpath": "//html[1]/body[1]/div[9]/div[1]/div[3]/div[1]/div[1]/p[2]/a[3]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Link: Build Your Own Bundle",
+    "tag": "a",
+    "href": "/products/custom-mixed-bundle-6-box",
+    "text": "Build Your Own Bundle",
+    "css_locator": "page.locator('a[href=\"/products/custom-mixed-bundle-6-box\"]')",
+    "xpath": "//html[1]/body[1]/div[9]/div[1]/div[3]/div[1]/div[1]/p[2]/a[4]",
+    "valid_xpath": true,
+    "better_selector": null
+  },
+  {
+    "name": "Link: Shop All",
+    "tag": "a",
+    "href": "/collections/shop-all",
+    "text": "Shop All",
+    "css_locator": "page.locator('a[href=\"/collections/shop-all\"]')",
+    "xpath": "//html[1]/body[1]/div[9]/div[1]/div[3]/div[1]/div[1]/p[2]/a[5]",
+    "valid_xpath": true,
+    "better_selector": null
+  }
+]
