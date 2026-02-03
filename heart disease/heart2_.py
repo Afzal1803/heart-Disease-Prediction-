@@ -41,11 +41,15 @@ print(X)
 
 print(Y)
 
+print(Y)
+
 X_train, X_test, Y_train, Y_test = train_test_split(X, Y, test_size=0.2, stratify=Y, random_state=2)
 
 print(X.shape, X_train.shape, X_test.shape)
 
 model = LogisticRegression()
+model = LogisticRegression()
+
 
 # training the LogisticRegression model with Training data
 model.fit(X_train, Y_train)
